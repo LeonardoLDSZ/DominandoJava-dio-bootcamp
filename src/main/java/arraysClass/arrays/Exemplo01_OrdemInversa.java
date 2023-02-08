@@ -1,4 +1,4 @@
-package arrays;
+package arraysClass.arrays;
 
 public class Exemplo01_OrdemInversa {
 

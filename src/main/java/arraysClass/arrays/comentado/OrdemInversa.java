@@ -1,4 +1,4 @@
-package arrays.comentado;
+package arraysClass.arrays.comentado;
 
 import java.util.Arrays;
 import java.util.List;

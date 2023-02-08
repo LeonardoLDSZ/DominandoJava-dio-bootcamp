@@ -1,4 +1,4 @@
-package arrays.comentado;
+package arraysClass.arrays.comentado;
 
 /*
 Faça um Programa que leia um vetor de 6 caracteres,

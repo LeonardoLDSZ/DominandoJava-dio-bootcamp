@@ -1,25 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="735ec6b3-22c6-4bb6-9197-7412e314ea49" name="Changes" comment="" />
+    <list default="true" id="735ec6b3-22c6-4bb6-9197-7412e314ea49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arraysClass/loops/comentary/MaiorEMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arraysClass/loops/comentary/NomeEIdade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arraysClass/loops/comentary/Nota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/arraysClass/loops/comentary/ParEImpar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/classMethods/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/classMethods/Emprestimo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/classMethods/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/classMethods/Mensagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Exemplo01_OrdemInversa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysClass/arrays/Exemplo01_OrdemInversa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Exemplo02_Consoantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysClass/arrays/Exemplo02_Consoantes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Exemplo03_NumerosAleatorios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysClass/arrays/Exemplo03_NumerosAleatorios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/Exemplo04_ArrayMultidimensional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysClass/arrays/Exemplo04_ArrayMultidimensional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/comentado/ArrayMultidimensional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysClass/arrays/comentado/ArrayMultidimensional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/comentado/Consoantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysClass/arrays/comentado/Consoantes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/comentado/NumerosAleatorios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysClass/arrays/comentado/NumerosAleatorios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/arrays/comentado/OrdemInversa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysClass/arrays/comentado/OrdemInversa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loops/Ex01_NomeEIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysClass/loops/Ex01_NomeEIdade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loops/Ex02_Nota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysClass/loops/Ex02_Nota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loops/Ex03_MaiorMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysClass/loops/Ex03_MaiorMedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loops/Ex04_ParEImpar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysClass/loops/Ex04_ParEImpar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loops/Ex05_Tabuada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysClass/loops/Ex05_Tabuada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loops/Ex06_Fatorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysClass/loops/Ex06_Fatorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loops/Fatorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysClass/loops/comentary/Fatorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loops/Tabuada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/arraysClass/loops/comentary/Tabuada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellij-sample/src/main/java/br/com/dio/Calculadora/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/../intellij-sample/src/main/java/br/com/dio/Calculadora/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellij-sample/src/main/java/br/com/dio/teste/clickJuridico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../intellij-sample/src/main/java/br/com/dio/teste/clickJuridico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intellij-sample/src/main/java/br/com/dio/teste/teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/../intellij-sample/src/main/java/br/com/dio/teste/teste.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LOPOoxMuVwPoNtPHXcCWg9Cz9H" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -32,5 +80,19 @@
       <updated>1675739131019</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

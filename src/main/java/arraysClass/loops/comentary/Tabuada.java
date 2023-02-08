@@ -1,4 +1,4 @@
-package loops;
+package arraysClass.loops.comentary;
 
 /*
 Desenvolva um gerador de tabuada,
